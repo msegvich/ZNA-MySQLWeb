@@ -1,0 +1,8 @@
+com/pivotal/pcf/mysqlweb/WebUITests.class
+com/pivotal/pcf/mysqlweb/ViewDAOImplTests.class
+com/pivotal/pcf/mysqlweb/GenericDAOImplTests.class
+com/pivotal/pcf/mysqlweb/PivotalMySqlWebApplicationTests.class
+com/pivotal/pcf/mysqlweb/TableDAOImplTests.class
+com/pivotal/pcf/mysqlweb/WebUITests$TestConfiguration.class
+com/pivotal/pcf/mysqlweb/ConstraintDAOImplTests.class
+com/pivotal/pcf/mysqlweb/IndexDAOImplTests.class

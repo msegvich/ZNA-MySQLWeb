@@ -1,0 +1,13 @@
+server:
+  error:
+    whitelabel:
+      enabled: false
+  servlet:
+    session:
+      timeout: 1800
+
+spring:
+  security:
+    user:
+      name: admin
+      password: cfmysqlweb
